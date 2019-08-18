@@ -10,9 +10,7 @@ public class feature1 {
         String text2 = "Made some more change to feature 1";
         
         
-        //I want these changes not to be commited
-        //test
-        //test 2
+       //this is feature 4
        
     }
 }
