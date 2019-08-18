@@ -8,8 +8,5 @@ public class feature1 {
         System.out.println("Hello feature1");
         String text = "Made some changes to feature 1";
         String text2 = "Made some more change to feature 1";
-        
-        
-        //I want these changes not to be commited
     }
 }
