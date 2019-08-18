@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package io.syndesis.dummy;
+package feature1;
 
 public class Main {
 
