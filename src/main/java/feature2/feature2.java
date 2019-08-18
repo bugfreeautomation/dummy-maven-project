@@ -14,11 +14,11 @@
  * limitations under the License.
  */
 
-package feature1;
+package feature2;
 
-public class Main {
+public class feature2 {
 
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        System.out.println("Hello feature 2");
     }
 }
