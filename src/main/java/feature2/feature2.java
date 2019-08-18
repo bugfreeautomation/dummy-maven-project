@@ -19,6 +19,8 @@ package feature2;
 public class feature2 {
 
     public static void main(String[] args) {
-        System.out.println("Hello feature 2, lets make some change");
+        System.out.println("Hello feature 2");
+        String text = "Made some changes to feature 2, to create conflict";
+
     }
 }
